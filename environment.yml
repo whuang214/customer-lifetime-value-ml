@@ -1,13 +1,7 @@
-name: telecom-customer-cltv-prediction
+name: MISM6212
 channels:
-  - conda-forge
   - defaults
-dependencies:
-  - python=3.9
-  - pandas
-  - numpy
-  - scikit-learn
-  - matplotlib
-  - seaborn
-  - jupyterlab
-  - ipykernel
+  - https://repo.anaconda.com/pkgs/main
+  - https://repo.anaconda.com/pkgs/r
+  - https://repo.anaconda.com/pkgs/msys2
+prefix: C:\Users\Will\AppData\Local\R-MINI~1\envs\MISM6212
